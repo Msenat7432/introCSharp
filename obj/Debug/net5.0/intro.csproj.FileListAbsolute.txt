@@ -1,0 +1,15 @@
+/Users/maxsenat/Documents/intro/bin/Debug/net5.0/intro.deps.json
+/Users/maxsenat/Documents/intro/bin/Debug/net5.0/intro.runtimeconfig.json
+/Users/maxsenat/Documents/intro/bin/Debug/net5.0/intro.runtimeconfig.dev.json
+/Users/maxsenat/Documents/intro/bin/Debug/net5.0/intro.dll
+/Users/maxsenat/Documents/intro/bin/Debug/net5.0/ref/intro.dll
+/Users/maxsenat/Documents/intro/bin/Debug/net5.0/intro.pdb
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.csproj.AssemblyReference.cache
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.AssemblyInfoInputs.cache
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.AssemblyInfo.cs
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.csproj.CoreCompileInputs.cache
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.dll
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/ref/intro.dll
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.pdb
+/Users/maxsenat/Documents/intro/obj/Debug/net5.0/intro.genruntimeconfig.cache
